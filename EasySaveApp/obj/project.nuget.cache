@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYHzxVN68xvo+RjCTmp0ivD7IJtFBZcRv/E21q2ET7VEAH9/exF3L6wg2zhLWXeOz94lpVdcOgxfqZlWFqNRlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documents\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole\\EasySaveApp\\EasySaveApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\supersimpletcp\\2.2.0.1\\supersimpletcp.2.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

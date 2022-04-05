@@ -1,0 +1,139 @@
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfo.cs
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csprojAssemblyReference.cache
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfo.cs
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.exe
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.deps.json
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.json
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.dev.json
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CopyComplete
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.genruntimeconfig.cache
+<<<<<<< HEAD
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.exe
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.deps.json
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.json
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.dev.json
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CopyComplete
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\andre\Desktop\projet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.genruntimeconfig.cache
+=======
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.exe
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.deps.json
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.json
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.dev.json
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csprojAssemblyReference.cache
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfo.cs
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CopyComplete
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\Joachim\Desktop\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.genruntimeconfig.cache
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.exe
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.deps.json
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.json
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.dev.json
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csprojAssemblyReference.cache
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfo.cs
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CopyComplete
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\Joachim\Desktop\PROJET C#\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.genruntimeconfig.cache
+>>>>>>> 3169a758955c270f0666667addb881dfca3c13e6
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfo.cs
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.exe
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.deps.json
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.json
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.dev.json
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CopyComplete
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.genruntimeconfig.cache
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csprojAssemblyReference.cache
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfo.cs
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.exe
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.deps.json
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.json
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.dev.json
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.dll
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.pdb
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CopyComplete
+C:\Users\thoma\PROJETC#\betaLivrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.genruntimeconfig.cache
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.exe
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.deps.json
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.json
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.dev.json
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.dll
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.pdb
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.dll
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csprojAssemblyReference.cache
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfoInputs.cache
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfo.cs
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CoreCompileInputs.cache
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CopyComplete
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.dll
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.pdb
+D:\Année 3\Programmation Système\Projet\Code_Livrable1\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.genruntimeconfig.cache
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.exe
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.deps.json
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.json
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.runtimeconfig.dev.json
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.dll
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\EasySaveConsole.pdb
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.dll
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csprojAssemblyReference.cache
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfoInputs.cache
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.AssemblyInfo.cs
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CoreCompileInputs.cache
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.csproj.CopyComplete
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.dll
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.pdb
+D:\Année 3\Programmation Système\Projet\Code\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\netcoreapp3.1\EasySaveConsole.genruntimeconfig.cache
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\Users\thoma\PROJETC#\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\CryptoSoft.pdb
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+>>>>>>> fb496e5b030f89948c5cf2980fd97130c6c7baea
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\Users\andre\Desktop\proooojet\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\netcoreapp3.1\CryptoSoft.pdb

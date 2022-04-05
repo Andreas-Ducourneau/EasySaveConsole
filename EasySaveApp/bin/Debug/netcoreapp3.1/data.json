@@ -1,0 +1,23 @@
+[
+  {
+    "TypeOfSave": "Diff",
+    "name": "Diff",
+    "SourceDirectory": "D:\\soutenance\\source",
+    "DestinationDirectory": "D:\\soutenance\\diff\\",
+    "LastCompleteDirectory": "D:\\soutenance\\complete"
+  },
+  {
+    "TypeOfSave": "Full",
+    "name": "Backup",
+    "SourceDirectory": "D:\\soutenance\\source",
+    "DestinationDirectory": "D:\\soutenance\\complete\\",
+    "LastCompleteDirectory": ""
+  },
+  {
+    "TypeOfSave": "Full",
+    "name": "parralelle",
+    "SourceDirectory": "C:\\Users\\andre\\Documents\\Anno 1800",
+    "DestinationDirectory": "D:\\soutenance\\complete\\",
+    "LastCompleteDirectory": ""
+  }
+]
